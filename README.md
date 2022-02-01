@@ -1,2 +1,2 @@
 # book-store-database
-database coursework
+Database coursework made with [blindsphynx](https://github.com/blindsphynx)
